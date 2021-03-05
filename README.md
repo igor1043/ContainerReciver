@@ -3,7 +3,7 @@
 Programa em C ++ para mostrar uma simples aplicacao de container.
 
 
-JavaScript/ CSS /  bootstrap / jquery
+C++
 ## Sobre este repositório
 
 Programa em C ++ para mostrar uma simples aplicacao de container.
